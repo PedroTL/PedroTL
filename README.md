@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Banner Image](image/Banner.png)
+![Banner Image](images/2-Banner.png)
 
 ### Hi there 👋
 ---
