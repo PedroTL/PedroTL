@@ -43,6 +43,6 @@ For more information about me, visit my. [portifolio](https://pedrotl.github.io/
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrotricoli" alt="LinkedIn"/></a>
 
   <a href="https://www.twitter.com/pedrottlucas" title="Twitter">
-  <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/:pedrotoledo">
+  <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/:pedrottlucas">
 
 
