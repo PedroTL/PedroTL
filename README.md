@@ -45,6 +45,12 @@ For more information about me, visit my. [portifolio](https://pedrotl.github.io/
   <a href="https://www.twitter.com/pedrottlucas" title="Twitter">
   <img src="https://img.shields.io/badge/-Twitter-0e76a8?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/pedrottlucas" alt="Twitter"/></a>
 
+  <!--
+  <a href="#" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
+</p>
+-->
+
 
  
 
