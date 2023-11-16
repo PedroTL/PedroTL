@@ -36,7 +36,7 @@ For more information about me, visit my. [portifolio](https://pedrotl.github.io/
 
 ----
 <p align="left">
-  <a href="#" title="Gmail">
+  <a href="pedrottlucas@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=pedrottlucas@gmail.com" alt="Gmail"/></a>
 
   <a href="https://www.linkedin.com/in/pedrotricoli" title="LinkedIn">
