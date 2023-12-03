@@ -24,9 +24,11 @@ I'm João Pedro T. T. Lucas, an extension fellow at the [Pontifical Catholic Uni
 I'm deeply passionate about academic research, particularly in the field of regional and development economics. My focus revolves around using spatial and data analysis to visualize and comprehend crucial indicators that significantly impact society.
 
 - Regional Economy
-- Spatial Data Science
-- Crime Economy
+- Spatial Data Analysis
+- GIS
 - Urban Vulnerability
+- Crime Economy
+
 
 ### Experience
 ---
