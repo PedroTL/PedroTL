@@ -24,6 +24,7 @@ I'm João Pedro T. T. Lucas, research assistant at the [Pontifical Catholic Univ
 My passion lies in academic research, particularly within the field of regional and development economics. My focus involves employing spatial and data analysis to visualize and understand crucial indicators that significantly impact society.
 
 - Regional Economy
+- Development Economics
 - Spatial Data Analysis
 - GIS
 - Urban Vulnerability
