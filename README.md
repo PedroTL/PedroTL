@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 ---
-I'm João Pedro T. T. Lucas, research assistant at the [Pontifical Catholic University of Campinas Observatory](https://observatorio.puc-campinas.edu.br/) in Brazil.
+I'm João Pedro T. T. Lucas, research analyst at the [Pontifical Catholic University of Campinas] in Brazil.
 
 ### Intrests
 ---
